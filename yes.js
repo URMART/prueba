@@ -1,1 +1,1 @@
-console.log("F  en el Chat")
+console.log("F  comant")
